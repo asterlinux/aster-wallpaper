@@ -1,6 +1,6 @@
 # Maintainer: Sahan Rasanjana <sahan.user@gmail.com>
 pkgname=('aster-wallpaper')
-pkgver=20230108
+pkgver=20230126
 pkgrel=1
 _destname="/usr"
 pkgdesc="Wallpaper Collection for Aster Linux using NASA image api"
